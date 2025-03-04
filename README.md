@@ -36,6 +36,8 @@
     $ conda activate homl3
     $ python -m ipykernel install --user --name=python3
 
+> macOS에서는 cmake를 먼저 설치하기: `brew install cmake`
+
 마지막으로 주피터를 실행합니다:
 
     $ jupyter notebook
